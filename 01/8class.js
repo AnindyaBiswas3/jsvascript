@@ -21,7 +21,7 @@ console.log(newString);
 
 const anotherString = gameName.slice(-8,5)
 console.log(anotherString);
-
+console.log(anotherString);
 
 
 const newStringOne = "      ANINDYA"
